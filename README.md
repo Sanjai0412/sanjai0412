@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sanjai</h1>
+<h3 align="center">A passionate Frontend Developer and Future Problem-Solving Beast 💻</h3>
 
-<!--
-**Sanjai0412/sanjai0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently mastering **DSA** and building strong **JavaScript/React** skills  
+- 🎯 My goal: Get placed in top companies like **Google, Microsoft, or Meta**  
+- 💡 I believe in learning by doing and sharing my journey
 
-Here are some ideas to get you started:
+### 💬 Life Motto
+> **"When you stop?"**  
+> **"Not Today."**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+- **Languages:** C#, JavaScript, Python 
+- **Frontend:** React, HTML, CSS  
+- **Tools:** Git, GitHub, VS Code  
+- **Learning:** Redux, DSA
+
+### 📫 How to reach me
+- 📧 sanjaikanth44@gmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/sanjaikanth-t-62831a281/) 
+
